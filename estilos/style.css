@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+strong {
+    font-weight: bolder;
+}
+
+html {
+    color: white;
+}
+
+.bloco1 {
+    background-color: #2E354A;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
+    gap: 25px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+    width: 50vw;
+    text-align: center;
+}
+
+.celular {
+    width: 30%;
+}
+
+.sobre-mim {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
+    color: black;
+    font-size: 30pt;
+}
+
+.sobre-mim-p {
+    padding: 0px 20px;
+    text-align: center;
+}
+
+.photo {
+    width: 150px;
+    border-radius: 0px;
+}
+
+.contato {
+    background-color: #114B57;
+    padding: 30px 15px;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 20px;
+}
+
+.icone-whatsapp {
+    width: 30px;
+}
+
+.paragrafo-whatsapp {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.button-contato {
+    background-color: #06764b;
+    border: 2px solid rgb(172, 228, 172);
+    border-radius: 10px;
+}
